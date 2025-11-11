@@ -1,4 +1,4 @@
-# 💊 Doseko: Medication and Health Management Appp
+# 💊 Doseko: Medication and Health Management App
 
 > Manage your medication with ease.
 
